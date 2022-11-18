@@ -1,3 +1,16 @@
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <style>
+            @font-face {
+                font-family: nazanin;
+                src: url('https://fonts.googleapis.com/css?family=BNazanin');
+                direction: rtl;
+            }
+        </style>
+    </head>
+</html>
+
 # نحوه ی استفاده از اینام در پایتون
 
 
